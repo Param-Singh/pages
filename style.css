@@ -343,13 +343,13 @@ ul#services li {
     align-self: center;
   }
   #containerandshowcase {
-    background-image: url(img/mobilebg.jpg);
+    background-image: url("https://raw.githubusercontent.com/Param-Singh/pages/master/img/mobilebg.jpg";
     background-repeat: no-repeat;
     background-size: cover;
   }
   .whole {
     box-sizing: border-box;
     border: none;
-    background-image: url(img/mobilecc.png);
+    background-image: url("https://raw.githubusercontent.com/Param-Singh/pages/master/img/mobilecc.png");
   }
 }
